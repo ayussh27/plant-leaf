@@ -1,0 +1,120 @@
+.my-button {
+    display: inline-block;
+    margin: 5px; /* space between buttons */
+    background: #ea9b56; /* background color */
+    color: #333; /* text color */
+    font-size: 1.5em;
+    font-family: ‘Georgia’, serif;
+    font-style: italic;
+    border-radius: 50px; /* rounded corners */
+    padding: 8px 16px; /* space around text */
+    -moz-transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+    border-radius: 10%;
+    cursor: pointer;
+}
+.my-button:hover {
+    background: #666;
+    color: #c1e1e0;
+}
+.bg {
+    /* The image used */
+   /* background-image: url("https://img.freepik.com/free-vector/large-tropical-green-leaves-background_52683-36490.jpg");
+  
+    Full height */
+    height: 100%; 
+    margin: 0%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  body, html {
+    font-family: sans-serif;
+    height: 100%;
+    margin: 0%;
+  }
+  .text1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-style: oblique;
+  }
+
+  .h1{
+    background-color: #fef5e9;
+  }
+  footer {
+    text-align: center;
+    padding: 2px;
+    background-color: #fef5e9;
+    color: #f6901e;
+  }
+  .container-1{
+    background: #fef5e9;
+    text-align: center;
+    padding: 26px 0 104px;
+    box-sizing: border-box;
+    display: block;
+    margin: 5%;
+  }
+  .container-2{
+        box-sizing: content-box;
+        position: relative;
+        padding-left: 5%;
+        padding-right: 5%;
+        margin-left: auto;
+        margin-right: auto;
+  }
+  .xx-large{
+    font-family: "Roboto Condensed",Helvetica,sans-serif;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 1.2381em;
+    padding-top: 0.619em;
+    padding-bottom: 0;
+    display: block;
+  }
+  p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  .ul-1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f6901e;
+    color: #fefefe;
+  }
+  .li-1{
+    float: left;
+  }
+  
+ .li-1 a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+  }
+  
+  .li-1 a:hover {
+    background-color: #f3c388;
+  }
+
+  .container-3{
+    padding: 26px 0 104px;
+    box-sizing: content-box;
+    display: block;
+    box-sizing: content-box;
+    position: relative;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: auto;
+    margin-right: auto;
+  }
